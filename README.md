@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version 1.0.0">
   <img src="https://img.shields.io/badge/wordpress-5.8%2B-21759b" alt="WordPress 5.8+">
   <img src="https://img.shields.io/badge/php-7.4%2B-777bb4" alt="PHP 7.4+">
-  <img src="https://img.shields.io/badge/license-GPL--2.0--or--later-green" alt="License GPL-3.0">
+  <img src="https://img.shields.io/badge/license-GPL--3.0-green" alt="License GPL-3.0">
 </p>
 
 ---
