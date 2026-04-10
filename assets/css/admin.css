@@ -1,0 +1,29 @@
+/* ==========================================================================
+   WP Dark Mode — Admin Settings Styles
+   ========================================================================== */
+
+.wpdm-settings-wrap .form-table th {
+	width: 220px;
+	padding-left: 10px;
+}
+
+.wpdm-settings-wrap h2 {
+	margin-top: 2em;
+	padding-bottom: 0.5em;
+	border-bottom: 1px solid #ccd0d4;
+}
+
+.wpdm-settings-wrap h2:first-of-type {
+	margin-top: 0;
+}
+
+.wpdm-reset-form {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: 1px solid #ccd0d4;
+}
+
+.wpdm-settings-wrap textarea.code {
+	font-family: Consolas, Monaco, monospace;
+	font-size: 13px;
+}
