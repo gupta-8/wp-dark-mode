@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/wordpress-5.8%2B-21759b" alt="WordPress 5.8+">
   <img src="https://img.shields.io/badge/php-7.4%2B-777bb4" alt="PHP 7.4+">
   <img src="https://img.shields.io/badge/license-GPL--2.0--or--later-green" alt="License GPL-2.0-or-later">
-  <img src="https://img.shields.io/badge/jQuery-not%20required-brightgreen" alt="No jQuery">
 </p>
 
 ---
