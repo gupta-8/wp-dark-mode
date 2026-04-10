@@ -406,9 +406,3 @@ Contributions are welcome. Please open an issue first to discuss what you'd like
 ## License
 
 This project is licensed under the **GPL-2.0-or-later** license. See the [GNU General Public License](https://www.gnu.org/licenses/gpl-2.0.html) for details.
-
----
-
-<p align="center">
-  Built by <a href="https://github.com/gupta-8">gupta-8</a>
-</p>
