@@ -404,4 +404,4 @@ Contributions are welcome. Please open an issue first to discuss what you'd like
 
 ## License
 
-This project is licensed under the **GPL-2.0-or-later** license. See the [GNU General Public License](https://www.gnu.org/licenses/gpl-2.0.html) for details.
+This project is licensed under the **GPL-3.0** license. See the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) for details.
